@@ -1,11 +1,14 @@
-const CACHE_NAME = "foodexpress-v15";
+const CACHE_NAME = "foodexpress-v16";
 
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
   "./style.css",
   "./script.js",
-  "./manifest.json"
+  "./manifest.json",
+  "./logo.png",
+  "./icon-192.png",
+  "./icon-512.png"
 ];
 
 self.addEventListener("install", event => {
