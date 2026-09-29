@@ -10,7 +10,6 @@
   "background_color": "#ffffff",
   "theme_color": "#ff6b00",
   "lang": "de-DE",
-
   "icons": [
     {
       "src": "/FoodExpress-/icon-192.png",
@@ -25,9 +24,9 @@
       "purpose": "any"
     }
   ],
-
   "categories": [
     "food",
     "shopping"
   ]
 }
+
